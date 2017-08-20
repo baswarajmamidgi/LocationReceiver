@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:title="Notify about bus arrival "
+        android:key="switch_preference_1"
+        android:switchTextOn="on" />
+    <ListPreference
+        android:defaultValue="1000"
+        android:title="Notification distance"
+        android:entries="@array/distances"
+        android:entryValues="@array/distances"
+        android:key="list_preference_distance"
+        android:summary="select the distance to notify about bus" />
+
+</PreferenceScreen>

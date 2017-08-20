@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="searchable">searchable</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="search">search</string>
+    <string name="showall">showall</string>
+    <string name="nodata">You have not yet added any favourites.Click on the favourite icon ❤️ in Search results page to favourite the route.</string>
+    <string name="no_favourites">No Favourites!</string>
+    <string name="textview">TextView</string>
+    <string name="_9989478011">9989478011</string>
+    <string name="email">Email :</string>
+
+
+</resources>
